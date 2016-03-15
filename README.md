@@ -20,4 +20,6 @@ make
 make install
 ```
 
+You'll need the `libpurple-dev`, `pidgin-dev`, `libglib2.0-dev` and `libsoup2.4-dev` to compile it on Ubuntu. Set up appropriate libs if you using other distro.
+
 After installing you sould be able to see plugin in Pidgin plugins list(restart may be nessesary). Then just ask somebody to send you an image url and get some fun.
